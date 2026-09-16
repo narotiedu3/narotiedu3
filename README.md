@@ -1,9 +1,8 @@
 ## Yo wassup. Naro here.
 
 
-**narotiedu3/narotiedu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some things i do/like to do:
 
 - 🔭 I’m currently working on MP3 player;
 - 🌱 I’m currently learning C#, Kotlin, Java, the HTML pack.
