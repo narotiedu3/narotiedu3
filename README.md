@@ -35,5 +35,5 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=narotiedu3&theme=tokyonight&color=blue" alt="People have been trough here" />
+  <img src="https://komarev.com/ghpvc/?username=narotiedu3&theme=tokyonight&color=blue" alt="Profile previews" />
 </div>
